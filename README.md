@@ -1,4 +1,5 @@
-# Precedente
+# Ciencia de Datos para todos - 100 Days of Data Science Challengue
+## Precedente
 Cada día se generan cantidades de 2,5 quintillones de datos nuevos. Se estima que la cantidad de datos digitales generados se multiplica por 2 cada dos años, 
 y se dice que en 2020 alcanzará los 44 zettabytes. Entre los diversos datos nuevos, se han convertido los datos a gran escala, o los llamados "grandes datos",
 que incluyen unidades de petabytes o más aspectos, o datos complejos que no pueden medirse con métodos tradicionales, como "datos dispersos" y relaciones. el centro de atención.
